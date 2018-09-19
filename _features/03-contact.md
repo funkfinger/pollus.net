@@ -1,8 +1,8 @@
 ---
 id: contact
 name: Contact
-heading: Get Started!
-subheading: Get Results NOW!
+heading: Get Started,
+subheading: Get Results!
 image: "/assets/images/contact.jpg"
 ---
 

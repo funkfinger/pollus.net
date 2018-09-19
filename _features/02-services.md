@@ -1,7 +1,7 @@
 ---
 id: services
 name: Polling AND Surveys
-heading: Polling & Surveys
+heading: Polling & Surveys.
 subheading: It's what we do!
 image: "/assets/images/polling.jpg"
 ---
